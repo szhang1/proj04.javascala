@@ -1,6 +1,7 @@
 package com.zhangshuo;
 
 public class DataStructure1 {
+
     public String getMember1() {
         return member1;
     }
