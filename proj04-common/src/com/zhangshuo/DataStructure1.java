@@ -9,5 +9,5 @@ public class DataStructure1 {
         this.member1 = member1;
     }
 
-    private String member1 = "default_value";
+    private String member1 = "Default Value";
 }
